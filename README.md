@@ -16,7 +16,7 @@ Use *Plot* to plot the stacked barplots and histograms.
   <br />
   To the extent possible under law,
   <span resource="[_:publisher]" rel="dct:publisher">
-    <span property="dct:title">EvoHull</span></span>
-  has waived all copyright and related or neighboring rights to
+    <span property="dct:title">we</span></span>
+  have waived all copyright and related or neighboring rights to
   this work.
 </p>
